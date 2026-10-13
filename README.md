@@ -1,5 +1,3 @@
-# `rce-404`
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=22&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=Malware+Development;Windows+Internals;Kernel+Stuff;Reverse+Engineering" alt="Typing SVG" />
 </p>
